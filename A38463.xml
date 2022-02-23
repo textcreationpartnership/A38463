@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Englishman, or, A letter from a universal friend, perswading all sober Protestants to hearty and sincere love of one another, and a unanimous claim of their antient and undoubted rights, according to the law of the land, as the best means of their safety with some observations upon the late act against conventicles.</title>
+            <author>Universal friend.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38463</idno>
+            <idno type="STC">Wing E3097</idno>
+            <idno type="STC">ESTC R11893</idno>
+            <idno type="EEBO-CITATION">11998192</idno>
+            <idno type="OCLC">ocm 11998192</idno>
+            <idno type="VID">52145</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52145)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 561:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Englishman, or, A letter from a universal friend, perswading all sober Protestants to hearty and sincere love of one another, and a unanimous claim of their antient and undoubted rights, according to the law of the land, as the best means of their safety with some observations upon the late act against conventicles.</title>
+                  <author>Universal friend.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52145:1" rendition="simple:additions"/>
+            <p> The Engliſhman, OR A Letter from a Univerſal Friend, per<g ref="char:EOLhyphen"/>ſwading all <hi>Sober Protestants</hi> to hear<g ref="char:EOLhyphen"/>ty and ſincere Love of one another;</p>
+            <p>And a Unanimous Claim of their Antient and Undoubted <hi>Rights,</hi> according to the Law of the Land, as the beſt means of their ſafety: With ſome Obſervations upon the late Act againſt <hi>Conventicles.</hi>
+            </p>
+            <q>
+               <bibl>Gen. 13. 8.</bibl> 
+               <hi>And</hi> Abraham <hi>ſaid unto</hi> Lot, <hi>Let there be no ſtrife, I pray thee, between me and thee, for we are Brethren.</hi>
+            </q>
+            <q>
+               <bibl>Rom. 8. 13.</bibl> 
+               <hi>If God be for us, Who can be againſt us?</hi>
+            </q>
+            <q>
+               <bibl>1 King. 21. 3.</bibl> 
+               <hi>The Lord forbid it me, that I ſhould give the inheri<g ref="char:EOLhyphen"/>tance of my Fathers unto thee.</hi>
+            </q>
+            <q>
+               <bibl>Ld. Cook.</bibl> 
+               <hi>The Law of</hi> England <hi>is our Inheritance, yea, the Inhe<g ref="char:EOLhyphen"/>ritance of Inheritances, without which we have no Inheritance.</hi>
+            </q>
+            <q>
+               <bibl>Vauhan.</bibl> 
+               <hi>The Laws of</hi> England <hi>were never the Dictates of any Con<g ref="char:EOLhyphen"/>querors Sword, or the Placita, or good will and pleaſure of any King of this Nation, or to ſpeak impartially and fréely, the Reſults of any Parliament that ever ſat in this Land.</hi>
+            </q>
+            <p>Printed in the year 1670.</p>
+            <pb facs="tcp:52145:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:52145:2"/>
+            <head>The Engliſhman, OR A Letter from a Univerſal Friend, perſwading all ſober Proteſtants to hearty and ſincere Love of one another, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Dearly beloved Brethren,</salute>
+            </opener>
+            <p>IF neither the holy Scripture, nor humane Hiſtory, the Reaſon of the thing it ſelf, nor the general Obſervation of all Ages, had ſhewn us the evil of Diſcord and Diviſion, yet our own Ex<g ref="char:EOLhyphen"/>perience had been enough to evince us and future generations of the inevitable miſchief, deſtruction, and ruine that attends it; under the ſad and lamentable conſequences whereof, we lye groaning at this day. For the ending of which evil at preſent, and preventing the like for the future, it were good we would caſt our thoughts upon ſome com<g ref="char:EOLhyphen"/>mon medium, wherein we all might center: And the beter to pre<g ref="char:EOLhyphen"/>pare us for ſome ſuch general Propoſal, It is neceſſary that we firſt conſider, What are, and have been, the Cauſes of our ſore Deviſions.</p>
+            <p>And my Friends, the Riſe, Seeds, Cauſes, Growth and Encreaſe thereof ſeemeth, at leaſt in my underſtanding, to have its Original and Continuance from ſome irregular and undue apprehenſions in Religious mattors; Not that Religion in its own nature hath any Principle of Diſcord or Diviſion in it, no, not at all, but quite the contrary, being full of Peace, Love, Joy, Gentleneſs, Forbearance and the like; and to ſay truth, is the only thing that qualifies and fits us for Communion with Men, as well as with God. But becauſe of our propenſity to erre, in our Underſtandings, or Practice, or both; This ſweet, lovely, innocent thing of Religion, is, through miſtake, made nocent to our ſelves and others; and this miſtake (deareſt friends) is begotten and improved by nothing more than by our de<g ref="char:EOLhyphen"/>parting from thoſe Fundamentals of Religion God himſelf hath laid, and laying others, formed by our own Imaginations, in the room and
+<pb n="4" facs="tcp:52145:3"/> ſtead thereof. For our Lord Jeſus ranks all Religion under theſe two heads, of <hi>Loving the Lord our God with all our heart, with all our ſoul, with all our ſtrength, and with all our mind; and our Neighbour as our ſelves:</hi> And hath aſſured us, that in theſe two Commandments all Religion is contained; and upon them hangs all, both the Law and Prophets. The firſt doth moſtly reſpect our inward Man, or Conſci<g ref="char:EOLhyphen"/>ence: The latter, our outward Man, or Converſation; but both to<g ref="char:EOLhyphen"/>gether, our whole Man; our inward, and outward, our Soul and Body.</p>
+            <p>Many mind the firſt only, which makes them leſs Humane than they ought; and many reſpect the laſt alone, which makes them better Men than Chriſtians; but few, yea very few, do reckon themſelves equally obliged to both, and according to that Obligation, give obe<g ref="char:EOLhyphen"/>dience to both, walking in all integrity and uprightneſs towards God and all men.</p>
+            <p>This Partial Obedience to theſe two great Fundamentals and Com<g ref="char:EOLhyphen"/>mands of God, is the in-let to all the Diviſions and Miſeries which befall us; for each Profeſſion confines and reſtrains his Religion very much, if not wholly, within the Pale of his own Perſwaſion, and too much thinks what he gives to any other, is rather his Charity than his Duty; whereas you ſee there is one part of true Religion ought to be as extenſive as the World it ſelf. For if we take our Lords definition of our Neighbour, our Neighbour is not to be underſtood by the vici<g ref="char:EOLhyphen"/>nity of our Habitation, nor by our relation as Church-members, whe<g ref="char:EOLhyphen"/>ther of our own or any other Perſwaſion, for the Neighbour we are obliged, both by the Law and Goſpel, to love as our ſelves, ſtands not related to us as we are Chriſtians, but as we are Men; as he admita<g ref="char:EOLhyphen"/>bly illuſtrates, in the inſtance of the man journeying from <hi>Jeruſalem</hi> to <hi>Jericho,</hi> that fell among Theeves, where the poor <hi>Samaritam</hi> proves the Neighbour; and exhibits the duty thereof, when both the Prieſt and Levite had denied it. So that a Stranger in our Lords ſence, may be our Neighbour, when he that lives next us, either by Habitation or Profeſſion, may not: And a poor virtuous Heathen (for ſo the <hi>Sa<g ref="char:EOLhyphen"/>maritans</hi> were judged by the <hi>Jews)</hi> may more exactly perform this part of Religion, than the very Teachers and Guides themſelves, of a bare formal Profeſſion. But where there is more than bare form, even the ſeeming power of Godlineſs, how much is the Omiſſion of this part of Religion to be lamented, and how unfit are we to ſerve the whole Creation by it, that yet know not to extend it to him that dwels next us.</p>
+            <pb n="5" facs="tcp:52145:3" rendition="simple:additions"/>
+            <p> The way therefore to return to Union, and as a conſequence to hap<g ref="char:EOLhyphen"/>pineſs, is to return to our duty, which is the way to both: For if the neglecting this grand fundamental, was and is the Cauſe of our Diviſi<g ref="char:EOLhyphen"/>ons, the returning to it, will be the healing of them again: for if it be one part of our Religion, to love Men, as Men, though they have no Profeſſion on them; ſurely we grievouſly go beſide our duty, if we do not love our fellow Profeſſors, as ſuch, though of different perſwaſi<g ref="char:EOLhyphen"/>ons from us, or go to reſtrain this univerſal Love to the narrow li<g ref="char:EOLhyphen"/>mits of our own particular Churches, and think there is no duty of Love and ſervice from us to any, but ſuch as are of the ſame ſhape, ſtature and complexion in their ſpiritual underſtandings with our ſelves; the evil of which hath ſo rent us Proteſtants, tore us from one another, and ſo wounded and weakned us, that except we ſpeedi<g ref="char:EOLhyphen"/>ly return to a ſincere and hearty affection of each other, there is too much reaſon to fear we may become an eaſie prey to thoſe that have an equal enmity to us all.</p>
+            <p>Many Expedients I know have been propoſed and practiſed to ac<g ref="char:EOLhyphen"/>compliſh this Chriſtian Union, as the Meeting, Praying, and Exerci<g ref="char:EOLhyphen"/>ſing of differing Perſwaſions together, that ſo they might ferment, and grow up into a mutual Love and Underſtanding of one another, which is very good, but cannot reach the end of that duty hear ſpoken of, for though it may reconcile the differences of thoſe perſwaſions which are neareſt alike one to another, yet it can go no further. But this expedi<g ref="char:EOLhyphen"/>ent of the Lords own making comprehends all, yea the moſt remote perſwaſions, becauſe it extends it ſelf, not to Opinions or Profeſſions, but to men: for whether I am of this, or that, or t'other perſwaſion, I am ſtill a Man, which is the ſingle conſideration in this caſe; ſo that the one and only means that would moſt effectually bring about this, ſeems to me, to be the thorow and faithful performance of loving one another as Men; for I find by conſtant and never-failing obſervation, that the being loving and kindly affectionate one to another as Men, begets Converſation, and Converſation begets the beſt underſtanding of one another; for that Prejudice that is created by Reports, comes to be removed by Converſation: For when men come to ſee there's nothing ſo monſtrous and horrible in the Opinions and Practiſes of each other, as before they were made to believe there was, they grow up not only to a Humane but to a Chriſtian Friendſhip for each other, though different in their Judgments and Perſwaſions about Religious matters; Nor is this my obſervation only, but that which I am per<g ref="char:EOLhyphen"/>ſwaded hath the experience of many others to teſtifie its truth; be<g ref="char:EOLhyphen"/>ſides
+<pb n="6" facs="tcp:52145:4"/> the reaſon it hath in it ſelf: for no man ſees by any others ſo well as by his own eyes; which if we all had uſed for our ſelves, and not truſted to the miſrepreſentations of others, peradventure there ne<g ref="char:EOLhyphen"/>ver had been ſuch Diſcord among Brethren as we have ſeen.</p>
+            <p>But whileſt I perſwade to Love and Unity amongſt Chriſtians, though of different Perſwaſions, I would not be underſtood to ſpeak a Word for any Principle or Practice deſtructive to Mankind, as we all know that of the Papiſts to be, by our too ſad experience of their cru<g ref="char:EOLhyphen"/>el and bloody Maſſacres, of their burning and deſtroying whole Cities; a Religion ſo falſe and bloody, and ſo directly contrary to Chriſti<g ref="char:EOLhyphen"/>anity, that it may rather be called <hi>a Confederacy againſt Mankind,</hi> than a Religion.</p>
+            <p>The Scripture tells us, <hi>God opens the ear by Oppreſſion;</hi> and it were happy if now at length God ſhould open our ears, and make us to hear and do this great duty, and in order thereunto, that he would give us two things.</p>
+            <p>Firſt, To ſuch of us as have been Perſecutors and Oppreſſors, Hu<g ref="char:EOLhyphen"/>mility, for the great guilt we have been under for Oppreſſing one ano<g ref="char:EOLhyphen"/>ther for Conſcience ſake, that we may thorowly repent of our bitter<g ref="char:EOLhyphen"/>neſs, and acknowledge that to have been the great Cauſe of all the Miſeries we ſuffer.</p>
+            <p>And ſecondly, That he would give to ſuch as have been oppreſſed, and ſmitten in the houſe of their friends for their Conſcience ſake, not to retain their anger for ever, but to ſhew a forgiving ſpirit, by a readineſs to be reconciled, and to enter into a Unity again upon this large and noble Principle <hi>of loving their Neighbour as themſelves;</hi> that the Prejudices of the one, nor the Fears of the other, may not conti<g ref="char:EOLhyphen"/>nue but ceaſe, and be no more, nor ſhut the door of Mercy upon us any longer; for as our failer in this great duty did open the way to all this Rebuke that is come juſtly upon us, ſo our return unto this great P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecept of our Lord, would aſſuredly hand Freedom and Safety to us.</p>
+            <p>We can no way ſo much gratify the Oppreſſing and Perſecuting Spirit of the Church of <hi>Rome,</hi> as by our Diviſions, for our Diviſion is our Weakneſs, and our Weakneſs is their Strength. <hi>Divide &amp; Impe<g ref="char:EOLhyphen"/>ra,</hi> hath been their Word in all Ages, but Union hath ever ſoon put an end to that Empire; For that Government that founds it ſelf ra<g ref="char:EOLhyphen"/>ther upon the ſins of others, then juſtice, hath no foundation to ſup<g ref="char:EOLhyphen"/>port it. Let us act forgiveneſs therefore on our parts, as a great means to bring about this Union, that as they come forward by Re<g ref="char:EOLhyphen"/>pentance that have Oppreſſed, ſo we may meet them with Forgive<g ref="char:EOLhyphen"/>neſs
+<pb facs="tcp:52145:4" rendition="simple:additions"/> and open Armes, that have been Oppreſſed, and nor neglect this great duty any longer, by retaining our Piques and Offences one a<g ref="char:EOLhyphen"/>gainſt another: for how can we perſwade perſecuting Enemies we have a forgiving ſpirit, and ſo ſupple, ſoften and bring them off from the rage they are on, if they ſee us unwilling to forgive our returning Friends.</p>
+            <p>There being therefore ſomething in all of us, that is capable of Union, and that upon the account of this great Command of God, Let us apply to that, as to the common Center, to which the Lines of every particular Perſwaſion ought to run, and in which they ought all equally to meet, to wit, <hi>The loving our Neighbour as our ſelf:</hi> For beginning here, upon the foundation God hath laid, he will car<g ref="char:EOLhyphen"/>ry on our Love and Affections to marvelous Improvements. Let us therefore go in the Lords way; <hi>Firſt that that is natural, and after that which is ſpiritual;</hi> as the Apoſtle ſpeaks in another caſe, but is alſo true in this: And let us not leſſen the foundations of Love that God himſelf hath made, by ſtriving for, or after Liberty, to any of our par<g ref="char:EOLhyphen"/>ticular perſwaſions apart, But to keep exactly to this grand Rule of our duty, wherein we are all equally intereſted in one another, and be zealous contenders for that, as that only which will reach the intire concernments, not of a party, but the whole.</p>
+            <p>Having therefore ſuch a bottom, on which we all may ſtand equally, eaſily, ſafely, and ſecurely, let us keep right and faithful unto that, and not crumble away our common ſecurity, by the diviſions and ſub<g ref="char:EOLhyphen"/>diviſions of our ſeveral Perſwaſions; and by confining our loves to them alone, content our ſelves with new and narrow Foundations, which will hold none but our ſelves, nor we neither, any longer than that by our deviding from this our duty and our common Inter<g ref="char:EOLhyphen"/>eſt, we have given the ill willers of the whole, a fairer opportunity to fall the fouler on thoſe we have deſerted, and through their ruine to make the eaſier way to our own.</p>
+            <p>I never was over fond of learning ought from perſecuting ſpirits, yet I think Prudence will help us to gather inſtruction from all things, and a greater and more natural inſtruction cannot be given us, than to learn to be as extenſive in our Love, as they are in their Hatred of us; which if the Lord would pleaſe to enable us to do, it would be a bleſſed and refreſhing teſtimony, that he is appearing for us, in re<g ref="char:EOLhyphen"/>moving that exceeding folly and madneſs hath been among us, in re<g ref="char:EOLhyphen"/>ſtoring us to the true uſe of our Reaſon and underſtanding again; and we can no way ſhew the recovery of our Reaſon and Underſtanding
+<pb facs="tcp:52145:5"/> more, than by our faithful ſtanding to this Command of God, and by, with, and for all that are faithful thereunto, eſteeming every ones ſuffering, that ſuffers for it, as our own, as indeed it is: For he that ſuffers for, and in purſuance of the common concernment of this glo<g ref="char:EOLhyphen"/>rious Command, wherein I have as great a benefit as the Sufferer, I am (if I am under a due and right ſenſe of my duty, and my own In<g ref="char:EOLhyphen"/>tereſt) as true a Sufferer as him that ſuffers; and the ſtealing away the ſhoulder from this common burthen, hath been that that hath moſt encouraged Perſecuting Spirits in all times, rendred the load more heavy on the backs of ſome, and continued it longer upon all.</p>
+            <p>You ſee how excellent the Commands of God are, and that in keeping of them there is great reward, even ſafety and ſecurity here: but leſt there ſhould be any that mind neither the Lord nor his Com<g ref="char:EOLhyphen"/>mands, I will add for our farther encouragement, <hi>That the Funda<g ref="char:EOLhyphen"/>mental Law of the Land will bear us out in our oebdience to the Fundamen<g ref="char:EOLhyphen"/>tal Law of the Goſpel;</hi> And if we are defended in our Duty, both by Law and Goſpel, ſurely Perſecuting Spirits will have enough to do to break through both, and may at the end peradventure ſee, <hi>That no at<g ref="char:EOLhyphen"/>tempts againſt Gods People ſhall proſper.</hi>
+            </p>
+            <p>And truly it is our happineſs, that the Providence of God hath caſt our lot to live in a Land, where the Fundamental Laws thereof, run right with, and juſt to, the Fundamental Laws of our Religion; and that in ſtanding faithful to the one, we ſtand faithful, and are juſtified by the other alſo; ſo that none can object againſt us, that they are in<g ref="char:EOLhyphen"/>coherent, or we ſo in our ſtanding for them.</p>
+            <p>For I beſeech you Friends conſider, We hold by one common Te<g ref="char:EOLhyphen"/>nure all the Humane Intereſt that we have, and the only Security we have for the holding thereof, is the Fundamental Law; If this Secu<g ref="char:EOLhyphen"/>curity be violated upon any one, our Lives, Liberties and Properties are Invaded by that violation, as well as his to whom the violation is done; For he had the ſame Fence to ſecure his Freedom as we, and that fence being broken, we have no more ſecurity than him: Our keeping up therefore this Fundamental Law, as the Fence or Bank a<g ref="char:EOLhyphen"/>gainſt the Sea, is the alone and only way to preſerve the whole; or otherwiſe, through the Breach thereof, my Right, though ſeeming more remote will be deſtroyed as well as his that lyeth next it, and I cannot keep up this Fence, but by defending the right of him that is violated as my own, and my defending his Right as my own, is my <hi>Loving my Neighbour as my ſelf.</hi>
+            </p>
+            <p>And as it was good for us that we had ſuch forefathees, as laid for
+<pb n="9" facs="tcp:52145:5" rendition="simple:additions"/> as ſuch foundations of Liberty as cannot be ſhaken, or removed, for if they could, experience tells, that long ago we might have been made, inſtead of free-born <hi>Engliſh</hi> men, as ſlaves in <hi>Turkey.</hi>
+            </p>
+            <p>So it were good we would value, prize, and be ſo tenacious of theſe Fundamentals, that have preſerved our Lives, Liberties and Proper<g ref="char:EOLhyphen"/>ties to us, as we may deliver them entire to our Poſterities, as that which is their only Security of their Earthly All. For, <hi>This is the ſtrong man armed, that keepeth not only the houſe and goods, but the good man himſelf, and all he hath from ſpoiling.</hi> For our Fundamental Laws are not only Laws themſelves, but the Rule and Standard of all future Laws, and that which is the Judge of Laws, in order to the ſecuring our Liberties and Freedoms, or elſe where were our Foundation? For if an Act of Parliament could pull it up, it had never lain to this day. That this is clear, you may ſee in the Caſe of <hi>Dudley</hi> and <hi>Empſon.</hi>
+            </p>
+            <p>For <hi>Dudley</hi> and <hi>Empſon</hi> had an Act of Parliament to juſtifie their proceedings, yet could not that Act of Parliament juſtifie either them, or it ſelf; for that being made, as this Act againſt <hi>Conventicles,</hi> direct<g ref="char:EOLhyphen"/>ly againſt our Fundamental Laws, and our <hi>Engliſh</hi> Rights, by im<g ref="char:EOLhyphen"/>powring <hi>Dudly</hi> and <hi>Empſon,</hi> as this Act doth the Juſtices of Peace, to Examine and determine <hi>Engliſh-men</hi> without Legal Proceſs and Judg<g ref="char:EOLhyphen"/>ment of their Peers, which is one of our great Fundamentals; they not only Condemned <hi>Dudley</hi> and <hi>Empſon,</hi> but the Act it ſelf as Illegal; and good Reaſon, for how otherwiſe could <hi>Dudley</hi> and <hi>Empſon</hi> ere have been hanged, ſince they had a Law of King, Lords and Commons to defend them, unleſs the Law it ſelf (pardon the manner of ſpeak<g ref="char:EOLhyphen"/>ing) had been Illegal?</p>
+            <p>And how could a Law of King, Lords and Commons be Illegal, if there were not a Meaſure and Standard of the very Laws themſelves, that made and judged it ſo? and what Standard could that be, could ſo judge it, but our Fundamentals againſt which it was made?</p>
+            <p>But that I may not ſeem to beg ſo Great a Queſtion, upon which no leſs than all we have as <hi>Engliſh-men</hi> depends; I will give you one clear Proof, which may very well ſerve for many, for it is the acknow<g ref="char:EOLhyphen"/>ledgment of King, Lords and People, upon the very point I am upon, and in that very ſence I urge it, that you may ſee that this is no No<g ref="char:EOLhyphen"/>velty, but was the declared Opinion of all <hi>England,</hi> for above four hundred years ago (which at that time, as the Lord <hi>Cooke,</hi> and others, was but in affirmance of our then moſt Antient Fundamental Laws) and it is the <hi>Anathema</hi> adminiſtred in the great Hall at <hi>Weſtminſter,</hi> at the Reſtoring and Confirmation of <hi>Magna Charta,</hi> the third of <hi>May</hi>
+               <pb n="10" facs="tcp:52145:6"/> in the Year of our Lord 1253, King, Lords and People being preſent, conſenting to it. The words are theſe:</p>
+            <p>
+               <hi>We Excommunicate, Accurſe, and from the Benefit of Holy Church Sequeſter, all that ſecretly or openly, by Déed, Wordor Counſel, do make Statutes</hi> (pray mark) <hi>or obſerve Them being made; or that bring in Cuſtoms, or that kéep Them being brought in, againſt the ſaid Liberties of MAGNA CHARTA, the Writers, Lawmakers</hi> (obſerve I beſeech you) <hi>Councellors, and the Executors of them, and all thoſe that ſhall preſume to Iudge a<g ref="char:EOLhyphen"/>gainſt them.</hi>
+            </p>
+            <p>Theſe are not dark nor myſterious terms, that will admit of divers Conſtructions, but plain ſound Words, not ſubject to miſtakes or doubtings. By which you ſee what I affirmed: Firſt that our Funda<g ref="char:EOLhyphen"/>mentalls are the Standard and Touchſtone of all Laws. Secondly, That the Legiſlative Power it ſelf is tied up, under a dreadful Curſe, from making any Statute, or Law againſt them. Thirdly, If they ſhould adventure to do it, the People are obliged by the ſame Curſe to diſobey the Laws they make, and to give obedience to <hi>Magna Charta,</hi> as if that Law had never been made: And what were this but to oblige the People to an impoſſibility? Nay, to deſtroy themſelves, if any Law could be made by any whomſoever to Null it.</p>
+            <p>Hereby you may ſee the Value our Anceſtors put upon our <hi>Engliſh</hi> Liberty, how jealous they were of it; That for fear we ſhould be de<g ref="char:EOLhyphen"/>prived of the true enjoyment thereof, they would not truſt their very Parliaments, no, not under ſo ſolemn an Obligation, with the keep<g ref="char:EOLhyphen"/>ing of them; any further forth, than, if they kept them not, it ſhould be lawful for the People to diſobey their Laws, and rather chooſe to make every individual perſon thus the Judge of his Liberty, than to lodge it in the abſolute power of any to diſpoyl them of it: Knowing that that Liberty could but bring upon their Poſterity little tumults and confuſions for a ſeaſon; but the other would imbondage, enſlave, and deſtroy them for ever. Keep we therefore to them as to the Common Safety, and let them that run upon us by virtue of any Law made in in prejudice of them, conſider with themſelves, though, as <hi>Empſon</hi> and <hi>Dudley</hi> they may flatter for a time, our Fundamental Laws will be too ſtrong for them at laſt; For it would <hi>nonplus</hi> any perſon to bring an Inſtance of any man (out of War eſpecially) that ever brake our Fundamental Laws, but that firſt or laſt it brake his Neck, for the breach he made upon them.</p>
+            <p>On the contrary, we read nothing more frequent in our <hi>Engliſh</hi> An<g ref="char:EOLhyphen"/>nals,
+<pb n="11" facs="tcp:52145:6" rendition="simple:additions"/> than the cutting off Offenders for but endeavouring to ſubvert them; and how could that be in all Ages, unleſs we have ſome Fun<g ref="char:EOLhyphen"/>damental Laws? That it it is the higheſt Treaſon in any, to ſo much as but endeavour to ſubvert; and how ſoon would thoſe Foundations be deſtroyed, were it in the power of any to ſubvert them: and what need would there be of ſuch dilligence in allogenerations, to preſerve them from Subverſion, if the Publick Weal, and Liberty of the whole were not concerned in them? Where, by the way, you may obſerve, how excellently the <hi>Engliſh</hi> Law words the Charge of High Treaſon in this Caſe; in putting it in theſe Tearms, <hi>Endeavouring to Subvert</hi> them: (For there is no ſuch thing in Nature, as the Real Subverſion of them:) For our Fundamentals were not made by our Repreſenta<g ref="char:EOLhyphen"/>tives, but by the People themſelves; and our Repreſentatives them<g ref="char:EOLhyphen"/>ſelves limited by them; which it were good that Parliaments as well as People would obſerve, and be faithful to: For no Derivative Pow<g ref="char:EOLhyphen"/>er can Null what their Primetive Power hath Eſtabliſh.</p>
+            <p>And, as if our Forefathers thought they could never take too much care to deliver theſe Laws ſafely down to their Succeſſors; That al<g ref="char:EOLhyphen"/>though all perſons concerned in the executive part of the Law, are ſo<g ref="char:EOLhyphen"/>ſemnly and ſtrictly ſworn to its due Obſervance, and all perſons that ſhall make any Laws contrary to our Fundamental Laws, or any that ſhall yeeld Obedience or Obſerve them being made, heavily Curſed; yet, as if they thought they could never too ſufficiently Secure them to us, do further appoint and order: <hi>That the Charter be delivered to every Sheriffe of</hi> England, <hi>to be Read four times in the Year, before the People in the full County; And likewiſe to all Cathedrals there to remain to be Read to the People twice every Year.</hi> So that if we have any regard to our own Safety, or the Security and Happineſs of Poſterity, we ought to have the ſame tender care and eſteem thereof as they had.</p>
+            <p>The Law of <hi>England</hi> abhorreth nothing more than the Selling, De<g ref="char:EOLhyphen"/>nying or Delaying of Juſtice and Right, and as much as poſſible re<g ref="char:EOLhyphen"/>moves all lyableneſs to any of theſe; not leaving any thing of Life, Liberty, or Property to the Breſts of Judge or Juſtices, but all to be determined by the Judgment of our Peers or Equals, againſt whom in all Caſes there are Legal Exceptions, and if wronged there lyeth an Attaint; and whatever Practice or Practices, though never ſo often; or of long continuance, may have made Encroachments, and Viola<g ref="char:EOLhyphen"/>tions hereupon, and ſo are called Preſidents, and urged for Law; We ſay with the Lord Chief Juſtice <hi>Bramſton,</hi> 
+               <q>
+                  <hi>We are not to ſtand upon Preſidents, but upon the Fundamental Laws; and though Preſidents
+<pb n="12" facs="tcp:52145:7"/> look the one way or the other, they are to be brought back unto the Laws.</hi>
+               </q> For that is the Standard to try whether they be right or counterfeit, and all ſuch being weighed in the Ballance of our Fundamental Laws, will be found too Light.</p>
+            <p>Nor is their Objection againſt Fundamentals, that urge its <hi>Nullity</hi> from the Diſuſe thereof, of any more Reaſon, than if I ſhould plead the payment of a Bond from the forbearance of my Creditor. We muſt look therefore to the Fundamental Laws of the Land, as to the Inheritance our Fathers left us, without which all our other Inheri<g ref="char:EOLhyphen"/>tances are nothing worth.</p>
+            <p>The Magiſtrates therefore ought to look, not ſo much whether they act Regularly according to the late Act againſt <hi>Conventicles,</hi> as whether the Act it ſelf be Regular and according to the Fundamental Laws, one of which expreſly ſaith, <hi>We cannot be Diſſeiſed of our Liberties Properties, or any otherwiſe injured or deſtroyed, but by the Lawful Iudgement of our Peers.</hi> Wherefore let all Mayors, Juſtices, Con<g ref="char:EOLhyphen"/>ſtables, Overſeers, Churchwardens, and all other Officers that ſhall pull or hale away any part of our Liberties, Goods, or Properties by virtue of this Act, that hath no virtue in it, know (not by way of threat, but admonition) that though we are willing to forgive them as Chriſtians, yet as <hi>Engliſh-men</hi> we cannot forgive them: Nor will it be admitted for any Plea, that they ſhould have been fined themſelves; for the very Fines themſelves in this Act, are as irregular as the Act it ſelf: And to ſay truth, all Laws that have need of ſuch Fines and Mu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts annexed unto them, do carry in their very Front a ſuſpition they are falſe and differing from our Fundamentals. For good Laws, and ſuch as agree with our Foundations, carry ſuch Self-evidence and Conviction of the Publick utility of the whole, that they need not the Spur of any Penalty to quicken the Execution of them.</p>
+            <p>Now to conclude, It doth behove us to lay aſide our little Differen<g ref="char:EOLhyphen"/>ces, and agree in ſome common <hi>Medium,</hi> &amp; what can be found more ef<g ref="char:EOLhyphen"/>fectually leading to this end, than that of our Natural and Fundamen<g ref="char:EOLhyphen"/>tal Rights, contained in <hi>Magna Charta,</hi> and other Monuments and Records of our Liberties, wherein every perſon hath an equal Inter<g ref="char:EOLhyphen"/>eſt, the one as the other? So that though we cannot accord in all things as Chriſtians, yet we may agree as men; and our agreement as Men will be a fair Step towards our accord as Chriſtians. For he ſees but little that ſees not that our breach of Humanity, is one great cauſe of the breach of Chriſtianity amongſt us: And as an incentive hereto permit me to add, That if I have my Liberty as an <hi>Engliſh-man,</hi> I will
+<pb n="13" facs="tcp:52145:7" rendition="simple:additions"/> give any one leave to take away my Liberty as a Chriſtian if he can: becauſe it is an utter impoſſiblity. For if I have the Freedom of my Perſon to go where I will, and do what I will, ſo it be not againſt the Publick Peace, nor to the Injury of others (which is the Liberty of an <hi>Engliſhman)</hi> I can hear, and joyn in Worſhip with whom, and where, and when I will. The enjoyment therefore of our <hi>Engliſh</hi> Rights, is the broadeſt, beſt and ſafeſt way to ſecure our Chriſtian Rights, whereas if we are deprived of thoſe, we cannot enjoy the free<g ref="char:EOLhyphen"/>dom of theſe.</p>
+            <p>Since therefore we have ſo bleſſed a <hi>Medium,</hi> as will ſecure the In<g ref="char:EOLhyphen"/>tereſt of our inward, as well as our outward man, of our Chriſtian, as well as our <hi>Engliſh</hi> Rights, and that to every one as well as to our ſelves; and thereby making us truly capable of fulfilling the great and glorious Law of God, of loving our Neighbours as our ſelves.</p>
+            <p>Let us be found (my deareſt Friends of all Perſwaſions) faithful thereunto, by helping, ſuccouring and aſſiſting every one that ſhall ſuffer for this Common Cauſe, either in their Perſons or Properties, as thoſe that ſuffer equally for our ſakes as their own. And ſince we have the Fundamental Laws of God, and of the Land on our ſide, Let us conſtantly adhere thereunto, and leave the Iſſue, Succeſs and Event thereof to the Lord; And Let the <hi>Roman</hi> and <hi>Antichriſtian</hi> ſpirit know, that unleſs they are ſtronger than him, they can never prevail, but muſt lye down in ſorrow with all their fellows that have gone before them, under the diſmal wo of them that ſtrive with their Maker.</p>
+            <p>Having thus faithfully diſcharged my duty, and having ſome com<g ref="char:EOLhyphen"/>fortable perſwaſions you alſo will yours, I have as much quiet in my own Spirit as the Day and the Suffering thereof will admit, to him that is not only in Profeſſion but Reality, and eſteems it his Dignity ſo to be.</p>
+            <closer>
+               <salute>My dear Friends,</salute>
+               <signed>Your entirely affectionate Friend and Servant.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="14" facs="tcp:52145:8"/>
+            <head>POSTSCRIPT.</head>
+            <p>LET the preſent Sons of the Church, who boaſt ſo much of the Antient Fathers, hear what <hi>Turtullian</hi> and <hi>Lactantius</hi> ſay con<g ref="char:EOLhyphen"/>cerning Perſecution.</p>
+            <p>Turtullian ad Scapulam. <hi>It is our Property, Humane Equity, and Na<g ref="char:EOLhyphen"/>tural Righ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to allow each man to Worſhip what he thinks fit. No man can receive Benefit or Prejudice by the Religion of another. Beſides, it is not conſiſtent with Religion to Force men thereunto, ſince that ought to be em<g ref="char:EOLhyphen"/>braced Voluntarily, and not by Compulſion.</hi>
+            </p>
+            <p>Lactantius de Juſtitia, Cap. 20. <hi>There needs no Force, nor inju<g ref="char:EOLhyphen"/>rious Compulſion, becauſe Religion cannot be enforced: To make willing, you muſt uſe Perſwaſive Words, and not Stripes.—Why then do men Rage and Perſecute, that ſo they may encreaſe, inſtead of leſſening their Folly? [The Bible and the Gallowes] Piety and Cruelty are things of a quite dif<g ref="char:EOLhyphen"/>ferent nature, nor can Truth ſubſiſt with Force, or Juſtice with Oppreſſion.—If you will defend Religion with Blood-ſhed, Torments and Oppreſſion, you will rather Pollute and Defile Religion thereby than defend it. Nothing is, or ought to be ſo Voluntary as Religion; which ceaſeth to be ſuch, if the Worſhipper perform it with an Unwilling Mind.</hi>
+            </p>
+            <p>Now if our <hi>Reverendiſſimo's</hi> have an regard to the Holy Scriptures, the Precepts of our Lord Chriſt, and Practice of the Apoſtles. Or if the Judgment of ſuch whom they account their moſt Eminent Fathers, have any Influence upon them, and if their Conſciences be not wholly feared, <hi>That ſeeing they ſhall ſee, but not perceive; and hearing they ſhall hear, but not underſtand;</hi> They cannot but abhor themſelves for having been ſo Principally active in Procuring, and Inſtrumental in putting in Execution the late Act againſt <hi>Conventicles;</hi> Perſecuting Chriſt in his Members, and Ruining many thouſands of induſtrious People for Worſhipping God according to their Conſciences, and Obeying God rather than Man.</p>
+            <p>And if they ſhall ſtill go on, thus <hi>Impriſoning, Ruining and Beating their Fellow-ſervants; ſaying, The Lord delayeth his coming. The Lord of ſuch Servants ſhall come in a day when they look not for him, and in an hour that they are not aware of; and ſhall cut them aſunder, and appoint</hi> 
+               <note place="margin">Mat. 24. 50, 51.</note> 
+               <hi>them their portion with Hypocrites, there ſhall be weeping and gnaſhing of</hi>
+               <pb facs="tcp:52145:8" rendition="simple:additions"/> 
+               <hi>teeth. Therefore pray not thou for this People, neither life up cry nor pray<g ref="char:EOLhyphen"/>er for them, neither make interceſſion to me; for I will not heart thee.</hi> 
+               <note place="margin">Jer. 7.16, 17</note> 
+               <hi>Seeſt thou not what they do in the Cittys of</hi> Judah [ENGLAND] <hi>and in the Streets of</hi> Jeruſalem [LONDON.] <hi>And the ſouls of them that were ſlain for the Word of God, and for the Teſtimony which they held; cryed with a loud voice, ſaying, How long, O Lord, holy and true,</hi> 
+               <note place="margin">Rev. 6.10.</note> 
+               <hi>doſt thou not Judge and Avenge our Blood on Them that dwell on the Earth! He which teſtifieth theſe things, ſaith, Surely I come quickly.</hi> 
+               <note place="margin">Rev. 22.20</note> 
+               <hi>Amen. Even ſo come Lord Jeſus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
